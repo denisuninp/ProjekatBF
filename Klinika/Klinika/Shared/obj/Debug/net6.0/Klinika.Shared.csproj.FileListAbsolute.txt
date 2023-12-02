@@ -1,0 +1,11 @@
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\bin\Debug\net6.0\Klinika.Shared.deps.json
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\bin\Debug\net6.0\Klinika.Shared.dll
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\bin\Debug\net6.0\Klinika.Shared.pdb
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\obj\Debug\net6.0\Klinika.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\obj\Debug\net6.0\Klinika.Shared.AssemblyInfoInputs.cache
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\obj\Debug\net6.0\Klinika.Shared.AssemblyInfo.cs
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\obj\Debug\net6.0\Klinika.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\obj\Debug\net6.0\Klinika.Shared.dll
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\obj\Debug\net6.0\refint\Klinika.Shared.dll
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\obj\Debug\net6.0\Klinika.Shared.pdb
+C:\Users\Comp\Desktop\ProjekatBF\Klinika\Klinika\Shared\obj\Debug\net6.0\ref\Klinika.Shared.dll
